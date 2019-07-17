@@ -1,0 +1,15 @@
+C:\Users\rkitcher.EAD\source\repos\MainframeReportScript\start\bin\Debug\start.exe.config
+C:\Users\rkitcher.EAD\source\repos\MainframeReportScript\start\bin\Debug\start.exe.manifest
+C:\Users\rkitcher.EAD\source\repos\MainframeReportScript\start\bin\Debug\start.application
+C:\Users\rkitcher.EAD\source\repos\MainframeReportScript\start\bin\Debug\start.exe
+C:\Users\rkitcher.EAD\source\repos\MainframeReportScript\start\bin\Debug\start.pdb
+C:\Users\rkitcher.EAD\source\repos\MainframeReportScript\start\obj\Debug\MainframeReportScript.csprojAssemblyReference.cache
+C:\Users\rkitcher.EAD\source\repos\MainframeReportScript\start\obj\Debug\MainframeReportScript.csproj.ResolveComReference.cache
+C:\Users\rkitcher.EAD\source\repos\MainframeReportScript\start\obj\Debug\start.Form1.resources
+C:\Users\rkitcher.EAD\source\repos\MainframeReportScript\start\obj\Debug\start.Properties.Resources.resources
+C:\Users\rkitcher.EAD\source\repos\MainframeReportScript\start\obj\Debug\MainframeReportScript.csproj.GenerateResource.cache
+C:\Users\rkitcher.EAD\source\repos\MainframeReportScript\start\obj\Debug\MainframeReportScript.csproj.CoreCompileInputs.cache
+C:\Users\rkitcher.EAD\source\repos\MainframeReportScript\start\obj\Debug\start.exe.manifest
+C:\Users\rkitcher.EAD\source\repos\MainframeReportScript\start\obj\Debug\start.application
+C:\Users\rkitcher.EAD\source\repos\MainframeReportScript\start\obj\Debug\start.exe
+C:\Users\rkitcher.EAD\source\repos\MainframeReportScript\start\obj\Debug\start.pdb

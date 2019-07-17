@@ -1,0 +1,15 @@
+C:\Users\rkitcher.EAD\source\repos\start\start\bin\Debug\start.exe.config
+C:\Users\rkitcher.EAD\source\repos\start\start\bin\Debug\start.exe
+C:\Users\rkitcher.EAD\source\repos\start\start\bin\Debug\start.pdb
+C:\Users\rkitcher.EAD\source\repos\start\start\obj\Debug\start.csprojAssemblyReference.cache
+C:\Users\rkitcher.EAD\source\repos\start\start\obj\Debug\start.csproj.ResolveComReference.cache
+C:\Users\rkitcher.EAD\source\repos\start\start\obj\Debug\start.Form1.resources
+C:\Users\rkitcher.EAD\source\repos\start\start\obj\Debug\start.Properties.Resources.resources
+C:\Users\rkitcher.EAD\source\repos\start\start\obj\Debug\start.csproj.GenerateResource.cache
+C:\Users\rkitcher.EAD\source\repos\start\start\obj\Debug\start.csproj.CoreCompileInputs.cache
+C:\Users\rkitcher.EAD\source\repos\start\start\obj\Debug\start.exe
+C:\Users\rkitcher.EAD\source\repos\start\start\obj\Debug\start.pdb
+C:\Users\rkitcher.EAD\source\repos\start\start\bin\Debug\start.exe.manifest
+C:\Users\rkitcher.EAD\source\repos\start\start\bin\Debug\start.application
+C:\Users\rkitcher.EAD\source\repos\start\start\obj\Debug\start.exe.manifest
+C:\Users\rkitcher.EAD\source\repos\start\start\obj\Debug\start.application
